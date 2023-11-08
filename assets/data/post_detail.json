@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "user": {
+    "image":
+    "https://picsum.photos/200",
+    "name": "Usup Suparma"
+  },
+  "post": {
+    "post_image": "https://picsum.photos/200",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus in ipsum ac dictum. Integer et nunc ut tellus tinci, consectetur adipiscing elit. Nulla luctus in ipsum ac dictum. Integer et nunc ut tellus tinci, consectetur adipiscing elit. Nulla luctus in ipsum ac dictum. Integer et nunc ut tellus tinci Nulla luctus in ipsum ac dictum. Integer et nunc ut tellus tinci, consectetur adipiscing elit. Nulla luctus in ipsum ac ictum.",
+    "created_at": "Mar 27, 2023",
+    "total_comment": 0,
+    "total_down_vote": 0,
+    "total_up_vote": 0
+  }
+}
